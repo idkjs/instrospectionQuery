@@ -1,0 +1,20 @@
+{
+  "name": "instrospectionQuery",
+  "version": "1.0.0",
+  "description": "instrospectionQuery.gql somewhere easy to find",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idkjs/instrospectionQuery.git"
+  },
+  "keywords": [],
+  "author": "Alain Armand <aarmand.inbox@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idkjs/instrospectionQuery/issues"
+  },
+  "homepage": "https://github.com/idkjs/instrospectionQuery#readme"
+}
